@@ -1,7 +1,7 @@
 1. Download the zip file and extract it.
 2. Open your command line tool and go to the project root.
 3. run "npm install"
-4. Now you will find another folder on project root name "client"
+4. You will find another folder on project root name "client"
 5. Open your command line tool and go to client folder.
 6. run "npm install"
 
